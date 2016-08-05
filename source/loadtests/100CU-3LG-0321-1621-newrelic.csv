@@ -1,0 +1,8 @@
+Action,Apdex,Count,Avg (ms),SD (ms),Min (ms),Max (ms),Total (ms),Total (% time),Dissat (%)
+Root path,0.59 [0.01],570821.0,202,171,1.1,1380,115000000,100.0,100.0
+/content.views:ContentViewSet.list,0.94 [0.5],332661.0,274,175,41.1,1380,91300000,79.2,09.1
+/content.views:ContentViewSet.create,0.0 [0.01],43945.0,210,153,51.3,1150,9230000,08.0,18.8
+/content.views:ContentMediaViewSet.create,0.04 [0.01],87772.0,84.2,52.7,14.3,1190,7390000,06.4,36.1
+/content.views:ImageViewSet.create,0.05 [0.01],87812.0,83.5,53.0,26.1,1090,7330000,06.4,35.9
+/rover_utils.views:healthcheck,1.0 [0.01],18630.0,1.57,0.435,1.1,9.3,29300,00.0,00.0
+/rams_api.views:ContentV1ViewSet.list,0.0 [0.01]*,1.0,181,0,181,181,181,00.0,00.0
