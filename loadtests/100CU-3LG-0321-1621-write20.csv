@@ -1,0 +1,8 @@
+sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
+single content,161202,258,229,405,44,1314,0.00%,268.3,2899.4,98.85
+signle content list,161132,503,475,731,141,1499,0.00%,268.3,4905.6,158.37
+new content,43883,317,254,565,55,1228,0.00%,73.1,166.9,159.18
+new images,87693,189,176,282,28,1169,0.00%,146.1,91.0,65.85
+associate images,87655,190,176,281,29,1342,0.01%,146.0,119.6,65.41
+homepage list,9874,568,537,771,269,1118,0.00%,16.5,1990.5,138.60
+TOTAL,551439,318,257,586,28,1499,0.00%,917.6,10165.4,176.96
